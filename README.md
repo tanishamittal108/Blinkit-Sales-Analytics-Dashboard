@@ -102,9 +102,6 @@ Blinkit-Sales-Analytics-Dashboard/
 ├── Dataset/
 │   └── blinkit_sales.csv
 │
-├── Images/
-│   └── dashboard_overview.png
-│
 └── README.md
 ```
 
